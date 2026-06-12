@@ -66,6 +66,12 @@ git clone https://github.com/your-username/javascript-login-form.git
 
 No additional installation or dependencies are required.
 
+## Preview
+
+<img width="653" height="638" alt="image" src="https://github.com/user-attachments/assets/9367a724-1166-45f6-82cd-51b9d094bb2c" />
+
+
+
 ## Future Improvements
 
 * Email validation
